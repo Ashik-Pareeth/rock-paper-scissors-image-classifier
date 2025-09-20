@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Ashik-Pareeth/rock-paper-scissors-image-classifier.git](https://github.com/Ashik-Pareeth/rock-paper-image-classifier.git)
+    git clone [https://github.com/Ashik-Pareeth/rock-paper-scissors-image-classifier.git](https://github.com/Ashik-Pareeth/rock-paper-scissors-image-classifier.git)
     cd your-repository-name
     ```
 
